@@ -1,0 +1,86 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+ecg_fresh/
+
+# Machine Learning Models
+*.keras
+*.h5
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.pb
+best_*.keras
+
+# Data files
+*.csv
+*.dat
+*.atr
+*.hea
+mitdb/*.dat
+mitdb/*.atr
+mitdb/*.hea
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Plots and figures
+*.png
+*.jpg
+*.jpeg
+*.pdf
+plots/
+figures/
+
+# Temporary files
+*.tmp
+temp/
+tmp/
